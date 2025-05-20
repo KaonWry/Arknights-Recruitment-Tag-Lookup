@@ -4,7 +4,6 @@
         "tags": [
             "Nuker",
             "DPS",
-            "Top Operator",
             "Melee",
             "Guard"
         ]
@@ -12,7 +11,6 @@
     "SilverAsh": {
         "rarity": 6,
         "tags": [
-            "Top Operator",
             "Melee",
             "DPS",
             "Support",
@@ -22,7 +20,6 @@
     "Skadi": {
         "rarity": 6,
         "tags": [
-            "Top Operator",
             "Melee",
             "DPS",
             "Survival",
@@ -32,7 +29,6 @@
     "Helagur": {
         "rarity": 6,
         "tags": [
-            "Top Operator",
             "Melee",
             "DPS",
             "Survival",
@@ -44,7 +40,6 @@
         "tags": [
             "DPS",
             "Survival",
-            "Top Operator",
             "Melee",
             "Guard"
         ]
@@ -52,7 +47,6 @@
     "Thorns": {
         "rarity": 6,
         "tags": [
-            "Top Operator",
             "Melee",
             "DPS",
             "Defense",
@@ -62,9 +56,181 @@
     "Surtr": {
         "rarity": 6,
         "tags": [
-            "Top Operator",
             "Melee",
             "DPS",
+            "Guard"
+        ]
+    },
+    "Specter": {
+        "rarity": 5,
+        "tags": [
+            "Melee",
+            "AoE",
+            "Survival",
+            "Guard"
+        ]
+    },
+    "Indra": {
+        "rarity": 5,
+        "tags": [
+            "Melee",
+            "DPS",
+            "Survival",
+            "Guard"
+        ]
+    },
+    "Swire": {
+        "rarity": 5,
+        "tags": [
+            "Melee",
+            "DPS",
+            "Support",
+            "Guard"
+        ]
+    },
+    "Astesia": {
+        "rarity": 5,
+        "tags": [
+            "Melee",
+            "DPS",
+            "Defense",
+            "Guard"
+        ]
+    },
+    "Broca": {
+        "rarity": 5,
+        "tags": [
+            "Melee",
+            "AoE",
+            "Survival",
+            "Guard"
+        ]
+    },
+    "Ayerscarpe": {
+        "rarity": 5,
+        "tags": [
+            "Melee",
+            "DPS",
+            "AoE",
+            "Guard"
+        ]
+    },
+    "Flint": {
+        "rarity": 5,
+        "tags": [
+            "Melee",
+            "DPS",
+            "Guard"
+        ]
+    },
+    "Dobermann": {
+        "rarity": 4,
+        "tags": [
+            "Melee",
+            "DPS",
+            "Support",
+            "Guard"
+        ]
+    },
+    "Estelle": {
+        "rarity": 4,
+        "tags": [
+            "Melee",
+            "AoE",
+            "Survival",
+            "Guard"
+        ]
+    },
+    "Beehunter": {
+        "rarity": 4,
+        "tags": [
+            "Melee",
+            "DPS",
+            "Guard"
+        ]
+    },
+    "Mousse": {
+        "rarity": 4,
+        "tags": [
+            "Melee",
+            "DPS",
+            "Guard"
+        ]
+    },
+    "Frostleaf": {
+        "rarity": 4,
+        "tags": [
+            "Melee",
+            "Slow",
+            "DPS",
+            "Guard"
+        ]
+    },
+    "Matoimaru": {
+        "rarity": 4,
+        "tags": [
+            "Melee",
+            "Survival",
+            "DPS",
+            "Guard"
+        ]
+    },
+    "Utage": {
+        "rarity": 4,
+        "tags": [
+            "Melee",
+            "DPS",
+            "Survival",
+            "Guard"
+        ]
+    },
+    "Cutter": {
+        "rarity": 4,
+        "tags": [
+            "Melee",
+            "Nuker",
+            "DPS",
+            "Guard"
+        ]
+    },
+    "Arene": {
+        "rarity": 4,
+        "tags": [
+            "Melee",
+            "DPS",
+            "Guard"
+        ]
+    },
+    "Melantha": {
+        "rarity": 3,
+        "tags": [
+            "Melee",
+            "DPS",
+            "Guard"
+        ]
+    },
+    "Midnight": {
+        "rarity": 3,
+        "tags": [
+            "Melee",
+            "DPS",
+            "Guard"
+        ]
+    },
+    "Popukar": {
+        "rarity": 3,
+        "tags": [
+            "Melee",
+            "AoE",
+            "Survival",
+            "Guard"
+        ]
+    },
+    "Castle-3": {
+        "rarity": 1,
+        "tags": [
+            "Melee",
+            "Support",
             "Guard"
         ]
     },
@@ -74,7 +240,6 @@
             "Support",
             "DPS",
             "Specialist",
-            "Top Operator",
             "Ranged"
         ]
     },
@@ -84,7 +249,6 @@
             "DP-Recovery",
             "DPS",
             "Melee",
-            "Top Operator",
             "Vanguard"
         ]
     },
@@ -94,7 +258,6 @@
             "Defense",
             "Healing",
             "DPS",
-            "Top Operator",
             "Melee",
             "Defender"
         ]
@@ -104,7 +267,6 @@
         "tags": [
             "DPS",
             "Crowd-Control",
-            "Top Operator",
             "Ranged",
             "Caster"
         ]
@@ -115,7 +277,6 @@
             "DPS",
             "Survival",
             "Defense",
-            "Top Operator",
             "Melee",
             "Defender"
         ]
