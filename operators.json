@@ -1,284 +1,292 @@
-{
-    "Ch'en": {
+[
+    {
+        "name": "Ch'en",
         "rarity": 6,
-        "tags": [
-            "Nuker",
-            "DPS",
-            "Melee",
-            "Guard"
-        ]
+        "tags": ["Nuker", "DPS", "Melee", "Guard"]
     },
-    "SilverAsh": {
+    {
+        "name": "SilverAsh",
         "rarity": 6,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Support",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Support", "Guard"]
     },
-    "Skadi": {
+    {
+        "name": "Skadi",
         "rarity": 6,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Survival",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Survival", "Guard"]
     },
-    "Helagur": {
+    {
+        "name": "Helagur",
         "rarity": 6,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Survival",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Survival", "Guard"]
     },
-    "Blaze": {
+    {
+        "name": "Blaze",
         "rarity": 6,
-        "tags": [
-            "DPS",
-            "Survival",
-            "Melee",
-            "Guard"
-        ]
+        "tags": ["DPS", "Survival", "Melee", "Guard"]
     },
-    "Thorns": {
+    {
+        "name": "Thorns",
         "rarity": 6,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Defense",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Defense", "Guard"]
     },
-    "Surtr": {
+    {
+        "name": "Surtr",
         "rarity": 6,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Guard"]
     },
-    "Specter": {
+    {
+        "name": "Specter",
         "rarity": 5,
-        "tags": [
-            "Melee",
-            "AoE",
-            "Survival",
-            "Guard"
-        ]
+        "tags": ["Melee", "AoE", "Survival", "Guard"]
     },
-    "Indra": {
+    {
+        "name": "Indra",
         "rarity": 5,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Survival",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Survival", "Guard"]
     },
-    "Swire": {
+    {
+        "name": "Swire",
         "rarity": 5,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Support",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Support", "Guard"]
     },
-    "Astesia": {
+    {
+        "name": "Astesia",
         "rarity": 5,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Defense",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Defense", "Guard"]
     },
-    "Broca": {
+    {
+        "name": "Broca",
         "rarity": 5,
-        "tags": [
-            "Melee",
-            "AoE",
-            "Survival",
-            "Guard"
-        ]
+        "tags": ["Melee", "AoE", "Survival", "Guard"]
     },
-    "Ayerscarpe": {
+    {
+        "name": "Ayerscarpe",
         "rarity": 5,
-        "tags": [
-            "Melee",
-            "DPS",
-            "AoE",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "AoE", "Guard"]
     },
-    "Flint": {
+    {
+        "name": "Flint",
         "rarity": 5,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Guard"]
     },
-    "Dobermann": {
+    {
+        "name": "Dobermann",
         "rarity": 4,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Support",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Support", "Guard"]
     },
-    "Estelle": {
+    {
+        "name": "Estelle",
         "rarity": 4,
-        "tags": [
-            "Melee",
-            "AoE",
-            "Survival",
-            "Guard"
-        ]
+        "tags": ["Melee", "AoE", "Survival", "Guard"]
     },
-    "Beehunter": {
+    {
+        "name": "Beehunter",
         "rarity": 4,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Guard"]
     },
-    "Mousse": {
+    {
+        "name": "Mousse",
         "rarity": 4,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Guard"]
     },
-    "Frostleaf": {
+    {
+        "name": "Frostleaf",
         "rarity": 4,
-        "tags": [
-            "Melee",
-            "Slow",
-            "DPS",
-            "Guard"
-        ]
+        "tags": ["Melee", "Slow", "DPS", "Guard"]
     },
-    "Matoimaru": {
+    {
+        "name": "Matoimaru",
         "rarity": 4,
-        "tags": [
-            "Melee",
-            "Survival",
-            "DPS",
-            "Guard"
-        ]
+        "tags": ["Melee", "Survival", "DPS", "Guard"]
     },
-    "Utage": {
+    {
+        "name": "Utage",
         "rarity": 4,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Survival",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Survival", "Guard"]
     },
-    "Cutter": {
+    {
+        "name": "Cutter",
         "rarity": 4,
-        "tags": [
-            "Melee",
-            "Nuker",
-            "DPS",
-            "Guard"
-        ]
+        "tags": ["Melee", "Nuker", "DPS", "Guard"]
     },
-    "Arene": {
+    {
+        "name": "Arene",
         "rarity": 4,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Guard"]
     },
-    "Melantha": {
+    {
+        "name": "Melantha",
         "rarity": 3,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Guard"]
     },
-    "Midnight": {
+    {
+        "name": "Midnight",
         "rarity": 3,
-        "tags": [
-            "Melee",
-            "DPS",
-            "Guard"
-        ]
+        "tags": ["Melee", "DPS", "Guard"]
     },
-    "Popukar": {
+    {
+        "name": "Popukar",
         "rarity": 3,
-        "tags": [
-            "Melee",
-            "AoE",
-            "Survival",
-            "Guard"
-        ]
+        "tags": ["Melee", "AoE", "Survival", "Guard"]
     },
-    "Castle-3": {
+    {
+        "name": "Castle-3",
         "rarity": 1,
-        "tags": [
-            "Melee",
-            "Support",
-            "Guard"
-        ]
+        "tags": ["Melee", "Support", "Guard"]
     },
-    "Aak": {
+    {
+        "name": "Exusiai",
         "rarity": 6,
-        "tags": [
-            "Support",
-            "DPS",
-            "Specialist",
-            "Ranged"
-        ]
+        "tags": ["Ranged", "DPS", "Sniper"]
     },
-    "Bagpipe": {
+    {
+        "name": "Schwarz",
         "rarity": 6,
-        "tags": [
-            "DP-Recovery",
-            "DPS",
-            "Melee",
-            "Vanguard"
-        ]
+        "tags": ["Ranged", "DPS", "Sniper"]
     },
-    "Blemishine": {
+    {
+        "name": "Rosa",
         "rarity": 6,
-        "tags": [
-            "Defense",
-            "Healing",
-            "DPS",
-            "Melee",
-            "Defender"
-        ]
+        "tags": ["Ranged", "DPS", "Crowd-Control", "Sniper"]
     },
-    "Ceobe": {
-        "rarity": 6,
-        "tags": [
-            "DPS",
-            "Crowd-Control",
-            "Ranged",
-            "Caster"
-        ]
+    {
+        "name": "Provence",
+        "rarity": 5,
+        "tags": ["Ranged", "DPS", "Sniper"]
     },
-    "Eunectes": {
+    {
+        "name": "Blue Poison",
+        "rarity": 5,
+        "tags": ["Ranged", "DPS", "Sniper"]
+    },
+    {
+        "name": "Firewatch",
+        "rarity": 5,
+        "tags": ["Ranged", "DPS", "Nuker", "Sniper"]
+    },
+    {
+        "name": "Meteorite",
+        "rarity": 5,
+        "tags": ["Ranged", "AoE", "Debuff", "Sniper"]
+    },
+    {
+        "name": "Platinum",
+        "rarity": 5,
+        "tags": ["Ranged", "DPS", "Sniper"]
+    },
+    {
+        "name": "Executor",
+        "rarity": 5,
+        "tags": ["Ranged", "AoE", "Sniper"]
+    },
+    {
+        "name": "GreyThroat",
+        "rarity": 5,
+        "tags": ["Ranged", "DPS", "Sniper"]
+    },
+    {
+        "name": "Sesa",
+        "rarity": 5,
+        "tags": ["Ranged", "AoE", "Debuff", "Sniper"]
+    },
+    {
+        "name": "Andreana",
+        "rarity": 5,
+        "tags": ["Ranged", "DPS", "Slow", "Sniper"]
+    },
+    {
+        "name": "April",
+        "rarity": 5,
+        "tags": ["Ranged", "DPS", "Sniper"]
+    },
+    {
+        "name": "Aosta",
+        "rarity": 5,
+        "tags": ["Ranged", "DPS", "Sniper"]
+    },
+    {
+        "name": "ShiraYuki",
+        "rarity": 4,
+        "tags": ["Ranged", "AoE", "Slow", "Sniper"]
+    },
+    {
+        "name": "Meteor",
+        "rarity": 4,
+        "tags": ["Ranged", "DPS", "Debuff", "Sniper"]
+    },
+    {
+        "name": "Jessica",
+        "rarity": 4,
+        "tags": ["Ranged", "DPS", "Survival", "Sniper"]
+    },
+    {
+        "name": "Vermeil",
+        "rarity": 4,
+        "tags": ["Ranged", "DPS", "Sniper"]
+    },
+    {
+        "name": "May",
+        "rarity": 4,
+        "tags": ["Ranged", "DPS", "Slow", "Sniper"]
+    },
+    {
+        "name": "Ambriel",
+        "rarity": 4,
+        "tags": ["Ranged", "DPS", "Slow", "Sniper"]
+    },
+    {
+        "name": "Aciddrop",
+        "rarity": 4,
+        "tags": ["Ranged", "DPS", "Sniper"]
+    },
+    {
+        "name": "Kroos",
+        "rarity": 3,
+        "tags": ["Ranged", "DPS", "Sniper"]
+    },
+    {
+        "name": "Adnachiel",
+        "rarity": 3,
+        "tags": ["Ranged", "DPS", "Sniper"]
+    },
+    {
+        "name": "Catapult",
+        "rarity": 3,
+        "tags": ["Ranged", "AoE", "Sniper"]
+    },
+    {
+        "name": "Rangers",
+        "rarity": 2,
+        "tags": ["Ranged", "Sniper"]
+    },
+    {
+        "name": "Justice Knight",
+        "rarity": 1,
+        "tags": ["Ranged", "Support", "Sniper"]
+    },
+    {
+        "name": "Aak",
         "rarity": 6,
-        "tags": [
-            "DPS",
-            "Survival",
-            "Defense",
-            "Melee",
-            "Defender"
-        ]
+        "tags": ["Support", "DPS", "Specialist", "Ranged"]
+    },
+    {
+        "name": "Bagpipe",
+        "rarity": 6,
+        "tags": ["DP-Recovery", "DPS", "Melee", "Vanguard"]
+    },
+    {
+        "name": "Blemishine",
+        "rarity": 6,
+        "tags": ["Defense", "Healing", "DPS", "Melee", "Defender"]
+    },
+    {
+        "name": "Ceobe",
+        "rarity": 6,
+        "tags": ["DPS", "Crowd-Control", "Ranged", "Caster"]
+    },
+    {
+        "name": "Eunectes",
+        "rarity": 6,
+        "tags": ["DPS", "Survival", "Defense", "Melee", "Defender"]
     }
-}
+]
